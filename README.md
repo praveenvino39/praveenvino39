@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenvino39
-- 👀 I’m interested in React JS and Flutter
-- 🌱 I’m currently learning Flutter in deep.
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 Interested in React JS and Flutter
+- 🌱 Currently learning Flutter in deep.
+- 💞️ Looking to collaborate on Flutter Projects
 - 📫 How to reach me praveena4e@gmail.com
 
 <!---
