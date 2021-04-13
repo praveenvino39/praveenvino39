@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenvino39
-- 👀 Interested in React JS and Flutter
+- 👀 Interested in React JS and Flutter and Django.
 - 🌱 Currently learning Flutter in deep.
-- 💞️ Looking to collaborate on Flutter Projects
+- 💞️ Looking to collaborate on Flutter or Django Projects
 - 📫 How to reach me praveena4e@gmail.com
 
 <!---
