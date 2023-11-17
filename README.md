@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @praveenvino39
-- 👀 Interested in React JS and Flutter and Django.
-- 🌱 Currently learning Flutter in deep.
-- 💞️ Looking to collaborate on Flutter or Django Projects
+- 👋 Hello there! I'm a passionate Web3 developer with a focus on Ethereum-based decentralized applications (DApps). 
+- 👀 Specializing in Web3.js, ether.js, React Native, and React, I bring a wealth of experience to the table. My expertise lies in crafting innovative and secure DApps that leverage the power of blockchain technology. 
+- 💞️ Looking to collaborate on Web3 Projects.
 - 📫 How to reach me praveena4e@gmail.com
 
 <!---
